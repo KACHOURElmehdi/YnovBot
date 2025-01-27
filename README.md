@@ -32,7 +32,7 @@ A lightweight and responsive chatbot interface built using AlpineJS and Tailwind
 
 1. Clone this repository or download the project files.
    ```bash
-   git clone ...
+   git clone https://github.com/KACHOURElmehdi/YnovBot
    ```
 2. Navigate to the project directory.
    ```bash
